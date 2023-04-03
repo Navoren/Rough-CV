@@ -1,0 +1,145 @@
+body{
+    color: #40514E;
+    background-color: #E1EEDD;
+    margin: 0;
+    text-align: center;
+    font-family: 'Arial', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial;
+}
+ .cloud1{
+    position: absolute;
+    right : 300px;
+    top : 10px
+} 
+.cloud2{
+    position : absolute;
+    left : 300px;
+    bottom : 300px;
+}
+h1{
+    font-size: 5rem;
+    margin-top: 50px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif, cursive;
+    color:#66BFBF ;
+    line-height: 1.5;
+}
+h2{
+    color: #11999E;
+}
+h3{
+    color: #11999E;
+    padding-bottom: 10px;
+}
+h4{
+    color:#66BFBF ;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+.Naman-img{
+    border-radius: 50%;
+    width: 200px;
+    height: 260px;
+}
+.web-dev-img{
+    width: 30%;
+    float: left;
+    margin-right: 30px;
+    margin: 10px;
+}
+.anime-gif{
+    border-radius: 30%;
+    width: 30%;
+    float: right;
+    margin: 10px;
+}
+.anime-desc{
+    text-align: right;
+    width: 40%;
+    margin:auto;
+}
+.web-skill-despriction{
+    width: 70%;
+}
+.Anime-head{
+    text-align: right;
+}
+.top{
+    position: relative;
+    background-color: #FEFBE9;
+    padding-left: 20px;
+    border: solid 1px;
+   
+}
+.middle-container{
+    margin: 100px 0;
+}
+.bottom-container{
+    background-color:#11999E;
+    padding : 50px 0 20px; 
+}
+.skill-row{
+    width: 50%;
+    margin: 120px auto 140px auto;
+    text-align: left;
+    line-height: 2;
+}
+hr{
+    border : dotted #056f73 6px;
+    border-bottom: none;
+    width : 4%;
+    margin: 100px auto;
+}
+a{
+    color : #024749;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 5px;
+    text-decoration-line: none;
+}
+a:hover {
+    color: #e7eded;
+}
+.copyright{
+    color: #e7eded;
+    font-size: 0.75rem;
+    padding: 10px 10px 2px 10px;
+}
+span{
+   background-color: goldenrod;
+   border-radius: 20%;
+}
+span-intro{
+    background-color: #30bd05;
+    border-radius: 20%;
+}
+.contact-desc{
+    margin:60px auto 40px auto;
+}
+.contact-desc2{
+    margin: 1px auto 60px auto;
+}
+.btn {
+    background: #ffafbd;
+    background-image: -webkit-linear-gradient(top, #ffafbd, #ffc3a0);
+    background-image: -moz-linear-gradient(top, #ffafbd, #ffc3a0);
+    background-image: -ms-linear-gradient(top, #ffafbd, #ffc3a0);
+    background-image: -o-linear-gradient(top, #ffafbd, #ffc3a0);
+    background-image: linear-gradient(to bottom, #ffafbd, #ffc3a0);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #ffc3a0);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #ffc3a0);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #ffc3a0);
+    background-image: -o-linear-gradient(top, #3cb0fd, #ffc3a0);
+    background-image: linear-gradient(to bottom, #3cb0fd, #ffc3a0);
+    text-decoration: none;
+  }
